@@ -6,6 +6,7 @@ Este projeto demonstra uma animação simples de botão usando HTML e CSS.
 
 ## Prévia
 
+![Uploading image.png…]()  
 
 
 ## Como Funciona
